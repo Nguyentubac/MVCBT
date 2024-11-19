@@ -1,66 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\btmvc\\btmvc\\views\\nhanvien\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\views\\nhanvien\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\mvcbt\\btmvc\\btmvc\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\btmvc\\btmvc\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\mvcbt\\btmvc\\btmvc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\mvcbt\\btmvc\\btmvc\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\mvcbt\\btmvc\\btmvc\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\mvcbt\\btmvc\\btmvc\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\mvcbt\\btmvc\\btmvc\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\mvcbt\\btmvc\\btmvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\mvcbt\\btmvc\\btmvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\mvcbt\\btmvc\\btmvc\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\mvcbt\\btmvc\\btmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\mvcbt\\btmvc\\btmvc\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\mvcbt\\btmvc\\btmvc\\models\\shopdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\models\\shopdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\mvcbt\\btmvc\\btmvc\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\btmvc\\btmvc\\views\\nhanvien\\find_gender_female.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\views\\nhanvien\\find_gender_female.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\btmvc\\btmvc\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\btmvc\\btmvc\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\btmvc\\btmvc\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\btmvc\\btmvc\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\mvcbt\\btmvc\\btmvc\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\btmvc\\btmvc\\views\\sinhvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\views\\sinhvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\btmvc\\btmvc\\views\\nhanvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\views\\nhanvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\btmvc\\btmvc\\views\\nhanvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\mvcbt\\btmvc\\btmvc\\views\\nhanvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\views\\nhanvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\btmvc\\btmvc\\views\\sinhvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\views\\sinhvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\btmvc\\btmvc\\views\\nhanvien\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\views\\nhanvien\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\btmvc\\btmvc\\views\\sinhvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\views\\sinhvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\btmvc\\btmvc\\views\\sinhvien\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\views\\sinhvien\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\btmvc\\btmvc\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|c:\\users\\admin\\source\\repos\\mvcbt\\btmvc\\btmvc\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F022AE-C4AC-4721-B1C1-0DF4554871FE}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 331,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -87,196 +91,209 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Find_Gender_FeMale.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\NhanVien\\Find_Gender_FeMale.cshtml",
-              "RelativeDocumentMoniker": "BTMVC\\Views\\NhanVien\\Find_Gender_FeMale.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\NhanVien\\Find_Gender_FeMale.cshtml",
-              "RelativeToolTip": "BTMVC\\Views\\NhanVien\\Find_Gender_FeMale.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T08:00:47.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\NhanVien\\Delete.cshtml",
-              "RelativeDocumentMoniker": "BTMVC\\Views\\NhanVien\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\NhanVien\\Delete.cshtml",
-              "RelativeToolTip": "BTMVC\\Views\\NhanVien\\Delete.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEwAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T07:56:27.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\NhanVien\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BTMVC\\Views\\NhanVien\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\NhanVien\\Edit.cshtml",
-              "RelativeToolTip": "BTMVC\\Views\\NhanVien\\Edit.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T07:41:04.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\NhanVien\\Details.cshtml",
-              "RelativeDocumentMoniker": "BTMVC\\Views\\NhanVien\\Details.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\NhanVien\\Details.cshtml",
-              "RelativeToolTip": "BTMVC\\Views\\NhanVien\\Details.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T07:28:05.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\NhanVien\\Index.cshtml",
-              "RelativeDocumentMoniker": "BTMVC\\Views\\NhanVien\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\NhanVien\\Index.cshtml",
-              "RelativeToolTip": "BTMVC\\Views\\NhanVien\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTMVC\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "BTMVC\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T07:26:51.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NhanVienController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Controllers\\NhanVienController.cs",
-              "RelativeDocumentMoniker": "BTMVC\\Controllers\\NhanVienController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Controllers\\NhanVienController.cs*",
-              "RelativeToolTip": "BTMVC\\Controllers\\NhanVienController.cs*",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAuwG8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T07:26:33.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NhanVien.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Models\\NhanVien.cs",
-              "RelativeDocumentMoniker": "BTMVC\\Models\\NhanVien.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Models\\NhanVien.cs",
-              "RelativeToolTip": "BTMVC\\Models\\NhanVien.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T07:24:10.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\SinhVien\\Create.cshtml",
-              "RelativeDocumentMoniker": "BTMVC\\Views\\SinhVien\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\SinhVien\\Create.cshtml",
-              "RelativeToolTip": "BTMVC\\Views\\SinhVien\\Create.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T06:56:58.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SinhVienController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Controllers\\SinhVienController.cs",
-              "RelativeDocumentMoniker": "BTMVC\\Controllers\\SinhVienController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Controllers\\SinhVienController.cs",
-              "RelativeToolTip": "BTMVC\\Controllers\\SinhVienController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T06:46:03.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\SinhVien\\Index.cshtml",
-              "RelativeDocumentMoniker": "BTMVC\\Views\\SinhVien\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\SinhVien\\Index.cshtml",
-              "RelativeToolTip": "BTMVC\\Views\\SinhVien\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T06:53:22.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\SinhVien\\Login.cshtml",
-              "RelativeDocumentMoniker": "BTMVC\\Views\\SinhVien\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\SinhVien\\Login.cshtml",
-              "RelativeToolTip": "BTMVC\\Views\\SinhVien\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T06:47:02.813Z",
+              "WhenOpened": "2024-11-19T07:06:36.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "SinhVien.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Models\\SinhVien.cs",
-              "RelativeDocumentMoniker": "BTMVC\\Models\\SinhVien.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Models\\SinhVien.cs",
-              "RelativeToolTip": "BTMVC\\Models\\SinhVien.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAArAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTMVC\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "BTMVC\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T07:05:19.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "BTMVC\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "BTMVC\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwDYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T06:52:35.854Z",
+              "WhenOpened": "2024-11-19T06:58:52.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "BTMVC\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "BTMVC\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:57:33.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Global.asax.cs",
+              "RelativeDocumentMoniker": "BTMVC\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Global.asax.cs",
+              "RelativeToolTip": "BTMVC\\Global.asax.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAWwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:51:04.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\NhanVien\\Create.cshtml",
-              "RelativeDocumentMoniker": "BTMVC\\Views\\NhanVien\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\NhanVien\\Create.cshtml",
-              "RelativeToolTip": "BTMVC\\Views\\NhanVien\\Create.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T07:37:36.859Z",
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "BTMVC\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "BTMVC\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:48:23.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\SinhVien\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BTMVC\\Views\\SinhVien\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Views\\SinhVien\\Edit.cshtml",
-              "RelativeToolTip": "BTMVC\\Views\\SinhVien\\Edit.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAASAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BTMVC\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Models\\Order.cs",
+              "RelativeToolTip": "BTMVC\\Models\\Order.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:35:19.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "BTMVC\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "BTMVC\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAhwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T07:22:55.171Z",
+              "WhenOpened": "2024-11-19T07:44:11.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "BTMVC\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Models\\Customer.cs",
+              "RelativeToolTip": "BTMVC\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:34:27.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "BTMVC\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "BTMVC\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:48:21.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "BTMVC\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "BTMVC\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:48:18.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShopDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Models\\ShopDataContext.cs",
+              "RelativeDocumentMoniker": "BTMVC\\Models\\ShopDataContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Models\\ShopDataContext.cs",
+              "RelativeToolTip": "BTMVC\\Models\\ShopDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:44:16.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Models\\Login.cs",
-              "RelativeDocumentMoniker": "BTMVC\\Models\\Login.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BTMVC\\BTMVC\\Models\\Login.cs",
-              "RelativeToolTip": "BTMVC\\Models\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Views\\NhanVien\\Create.cshtml",
+              "RelativeDocumentMoniker": "BTMVC\\Views\\NhanVien\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Views\\NhanVien\\Create.cshtml",
+              "RelativeToolTip": "BTMVC\\Views\\NhanVien\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T05:56:15.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Views\\NhanVien\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTMVC\\Views\\NhanVien\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Views\\NhanVien\\Index.cshtml",
+              "RelativeToolTip": "BTMVC\\Views\\NhanVien\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T05:55:53.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NhanVienController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Controllers\\NhanVienController.cs",
+              "RelativeDocumentMoniker": "BTMVC\\Controllers\\NhanVienController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Controllers\\NhanVienController.cs",
+              "RelativeToolTip": "BTMVC\\Controllers\\NhanVienController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswF8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T06:45:28.723Z",
+              "WhenOpened": "2024-11-19T05:55:47.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "BTMVC\\Models\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\MVCBT\\BTMVC\\BTMVC\\Models\\NhanVien.cs",
+              "RelativeToolTip": "BTMVC\\Models\\NhanVien.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:48:35.044Z",
               "EditorCaption": ""
             }
           ]
