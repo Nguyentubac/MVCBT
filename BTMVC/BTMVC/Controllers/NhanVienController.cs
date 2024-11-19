@@ -58,7 +58,6 @@ namespace BTMVC.Controllers
             }
             catch
             {   
-
                 return View(nv);
             }
         }
